@@ -22,9 +22,17 @@
 **Как настроить (обход блокировки):**
 Лучше всего работает тип моста `webtunnel`.
 
+<img width="520" height="211" alt="изображение" src="https://github.com/user-attachments/assets/2fc98698-e05e-43c0-b408-3cd2eb127327" />
+
 1. Откройте Telegram и в поиске найдите официального бота: `@GetBridgesBot` (обязательно с синей галочкой подтверждения).
 2. Нажмите "Запустить" (Start).
+
+<img width="520" height="211" alt="изображение" src="https://github.com/user-attachments/assets/27421849-766d-4c65-93a7-f4a6259dd074" />
+
 3. В меню бота выберите тип моста: нажмите кнопку `webtunnel`.
+
+<img width="520" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/b970cc0c-3e19-4912-bdfa-635724b076b3" />
+
 4. Бот пришлет вам сообщение. Скопируйте из него длинную строку, которая начинается со слова `webtunnel`.
 5. Откройте установленный Tor Browser.
 6. Нажмите на значок шестеренки (Настройки / Settings) в правом верхнем углу.
