@@ -455,5 +455,5 @@ Matrix - это не конкретная программа, а открыты�
 
 <br>
 <p align="center">
-    <img width="100%" height="1024" alt="ANCERA101 - Волонтером связи может стать каждый" src="https://github.com/user-attachments/assets/b927829d-6331-4072-b185-b926cde4bd2a" />
+    <img width="100%" height="512" alt="ANCERA101 - Волонтером связи может стать каждый" src="https://github.com/user-attachments/assets/b927829d-6331-4072-b185-b926cde4bd2a" />
 </p>
