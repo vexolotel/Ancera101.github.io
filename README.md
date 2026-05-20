@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100%" height="400" alt="Ancera101 - Цифровая взаимовыручка" src="https://github.com/user-attachments/assets/860a5314-d65c-4b36-9fda-33a131541b25" />
+    <img src="https://github.com/user-attachments/assets/860a5314-d65c-4b36-9fda-33a131541b25" alt="Ancera101 - Цифровая взаимовыручка" />
 </p>
 
 # Резервные каналы связи: инструкция по настройке
@@ -113,21 +113,21 @@
 2. В теме или тексте письма напишите только одно слово с названием вашей системы: `windows`, `android`, `linux` или `macos`.
 3. Через пару минут вам придет ответное письмо на английском языке. Не пугайтесь текста, просто найдите в нем ссылку, которая начинается с `https://drive.google.com/...` и скачайте установочный файл по ней.
 
-<img width="855" height="414" alt="img" src="https://github.com/user-attachments/assets/5ffaf4f5-dd07-4f6f-9ae3-e653c3d98f36" />
+<img width="450" alt="img" src="https://github.com/user-attachments/assets/5ffaf4f5-dd07-4f6f-9ae3-e653c3d98f36" />
 
 **Как настроить (обход блокировки):**
 Лучше всего работает тип моста `webtunnel`.
 
-<img width="520" height="211" alt="изображение" src="https://github.com/user-attachments/assets/2fc98698-e05e-43c0-b408-3cd2eb127327" />
+<img width="450" alt="изображение" src="https://github.com/user-attachments/assets/2fc98698-e05e-43c0-b408-3cd2eb127327" />
 
 1. Откройте Telegram и в поиске найдите официального бота: `@GetBridgesBot` (обязательно с синей галочкой подтверждения).
 2. Нажмите "Запустить" (Start).
 
-<img width="520" height="211" alt="изображение" src="https://github.com/user-attachments/assets/27421849-766d-4c65-93a7-f4a6259dd074" />
+<img width="450" alt="изображение" src="https://github.com/user-attachments/assets/27421849-766d-4c65-93a7-f4a6259dd074" />
 
 3. В меню бота выберите тип моста: нажмите кнопку `webtunnel`.
 
-<img width="520" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/b970cc0c-3e19-4912-bdfa-635724b076b3" />
+<img width="450" alt="изображение" src="https://github.com/user-attachments/assets/b970cc0c-3e19-4912-bdfa-635724b076b3" />
 
 4. Бот пришлет вам сообщение. Скопируйте из него длинную строку, которая начинается со слова `webtunnel`.
 5. Откройте установленный Tor Browser.
@@ -173,7 +173,7 @@
 1. На сайте в разделе бесплатных продуктов выберите страну "Россия".
 2. Ниже на странице появится понятная пошаговая инструкция от создателей Amnezia. Просто следуйте ей.
 
-<img width="1427" height="922" alt="изображение" src="https://github.com/user-attachments/assets/4b53f3de-dd4e-405d-a58d-ef26e0fa08fb" />
+<img width="450" alt="изображение" src="https://github.com/user-attachments/assets/4b53f3de-dd4e-405d-a58d-ef26e0fa08fb" />
 
 **Вариант 2: Платный (Свой сервер / Premium)**
 
@@ -453,6 +453,7 @@ Matrix - это не конкретная программа, а открыты�
 * `#ЦифроваяВзаимопомощь` - для поиска полезных инструкций по обходу сбоев.
 * `#ПочиниИнтернетСоседу` - наш главный призыв к действию для технической взаимовыручки.
 
+<br>
 <p align="center">
-    <img width="100%" height="512" alt="ANCERA101 - Волонтером связи может стать каждый" src="https://github.com/user-attachments/assets/b927829d-6331-4072-b185-b926cde4bd2a" />
+    <img src="https://github.com/user-attachments/assets/b927829d-6331-4072-b185-b926cde4bd2a" alt="ANCERA101 - Волонтером связи может стать каждый" />
 </p>
