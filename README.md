@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100%" height="400" alt="Ancera101 - Цифровая взаимовыручка" src="https://github.com/user-attachments/assets/860a5314-d65c-4b36-9fda-33a131541b25" />
+  <img src="https://github.com/user-attachments/assets/860a5314-d65c-4b36-9fda-33a131541b25" alt="Ancera101 - Цифровая взаимовыручка">
 </p>
 
 > *"Все пройдет. Развеется дым, угаснет пламя, пройдут и годы... а звезды останутся..."*
